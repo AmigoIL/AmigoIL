@@ -23,5 +23,5 @@ Python · C# · Unity · Pygame · HTML · CSS · JavaScript · SQL
 
 ## 📫 Связаться со мной
 
-- Telegram: @твой_username
-- Email: твой_email@example.com
+- Telegram: @yaniilya
+- Email: ilyazubkow130808@gmail.com
